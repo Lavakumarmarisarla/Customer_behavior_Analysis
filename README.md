@@ -96,3 +96,39 @@ The Power BI dashboard provides:
 - Explored relationships between review ratings and purchasing patterns.
 - Generated actionable insights to support business decision-making.
 
+## Project Files
+Customer-Shopping-Behavior-Analysis/
+│
+├── customer_shopping_behavior.csv
+├── Customer Shopping Analysis.ipynb
+├── customer_behavior_SQL_queries.pdf
+├── Customer Shopping Behaviour Dashboard.pbix
+├── Customer Shopping Behavior Analysis Documentation.pdf
+├── Customer-Shopping-Behavior-Analysis.pptx
+└── README.md
+## How to Run :
+#### Clone the Repository
+### Clone the Repository
+
+```bash
+git clone https://github.com/Lavakumarmarisarla/Customer_behavior_Analysis.git
+cd Customer_behavior_Analysis
+```
+
+#### Install Dependencies
+pip install pandas numpy matplotlib seaborn sqlalchemy pymysql
+Run the Notebook
+jupyter notebook
+
+Open Customer Shopping Analysis.ipynb and execute all cells.
+
+#### Execute SQL Queries
+Create a MySQL database.
+Import the cleaned dataset.
+Run the SQL queries provided in the project files.
+#### Open Dashboard
+Open the Power BI dashboard file.
+Refresh the data source if required.
+Explore the interactive visualizations.
+
+

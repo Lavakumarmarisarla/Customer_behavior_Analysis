@@ -111,8 +111,8 @@ Customer_Behavior_Analysis/
 
 
 ```bash
-git clone https://github.com/Lavakumarmarisarla/Customer_behavior_Analysis.git
-cd Customer_behavior_Analysis
+[git clone https://github.com/Lavakumarmarisarla/Customer_behavior_Analysis.git
+cd Customer_behavior_Analysis](https://github.com/Lavakumarmarisarla/Customer_behavior_Analysis.git)
 ```
 
 #### Install Dependencies

@@ -11,28 +11,28 @@ The project covers the complete analytics lifecycle, including data preprocessin
 
 The dataset contains information related to:
 
-Customer demographics
-Age and gender
-Product categories
-Purchase amounts
-Review ratings
-Subscription status
-Discount usage
-Shipping preferences
-Payment methods
-Purchase frequency
+- Customer demographics
+- Age and gender
+  Product categories
+- Purchase amounts
+- Review ratings
+- Subscription status
+- Discount usage
+- Shipping preferences
+- Payment methods
+- Purchase frequency
 
 ## Tools & Technologies
 #### Data Analysis
-Python
-Pandas
-NumPy
+- Python
+- Pandas
+- NumPy
 #### Data Visualization
-Power BI
+- Power BI
 #### Database
-MySQL
+- MySQL
 
 #### Documentation & Presentation
-Microsoft Word
-Gamma
+- Microsoft Word
+- Gamma
 

@@ -97,7 +97,7 @@ The Power BI dashboard provides:
 - Generated actionable insights to support business decision-making.
 
 ## Project Files
-Customer-Shopping-Behavior-Analysis/
+Customer_Behavior_Analysis/
 │
 ├── customer_shopping_behavior.csv
 ├── Customer Shopping Analysis.ipynb
@@ -119,7 +119,6 @@ cd Customer_behavior_Analysis
 - pip install pandas numpy  sqlalchemy pymysql
 - Run the Notebook
 - jupyter notebook
-
 - Open Customer Shopping Analysis.ipynb and execute all cells.
 
 #### Execute SQL Queries

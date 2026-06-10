@@ -21,3 +21,18 @@ Discount usage
 Shipping preferences
 Payment methods
 Purchase frequency
+
+## Tools & Technologies
+#### Data Analysis
+Python
+Pandas
+NumPy
+#### Data Visualization
+Power BI
+#### Database
+MySQL
+
+#### Documentation & Presentation
+Microsoft Word
+Gamma
+

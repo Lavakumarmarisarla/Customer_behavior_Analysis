@@ -111,7 +111,7 @@ Customer_Behavior_Analysis/
 
 
 ```bash
-(https://github.com/Lavakumarmarisarla/Customer_behavior_Analysis.git)
+https://github.com/Lavakumarmarisarla/Customer_behavior_Analysis.git
 ```
 
 #### Install Dependencies

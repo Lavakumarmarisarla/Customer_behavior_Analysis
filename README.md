@@ -5,6 +5,10 @@ This project presents an end-to-end Data Analytics workflow using customer shopp
 
 The project covers the complete analytics lifecycle, including data preprocessing, exploratory data analysis (EDA), SQL-based business analysis, dashboard development, reporting, and presentation.
 
+## Customer Shopping Behavior Dashboard
+
+![Customer Shopping Behavior Dashboard](https://raw.githubusercontent.com/Lavakumarmarisarla/Customer_behavior_Analysis/main/Customer%20Shopping%20Behavoir%20dashboard.png)
+
 ## Dataset
 
 #### Dataset: Customer Shopping Behavior Dataset
